@@ -19,19 +19,9 @@
         "url":"/",
         "image": "https://i.imghippo.com/files/EAqST1714735135.png"
     }
-    ,   
+    ,
     {
         "id": 3,
-        "title": "Lavazza Landing Page",
-        "description": "Descriptive landing page for lavazza coffee shop developped with HTML,CSS,JS,BOOTSTRAP",
-        "category": "LandingPage",
-        "Society":"Lavazza TopClass",
-        "Date":"2024",
-        "url":"https://mohamed-rguig.github.io/LavazzaLandingPage/",
-        "image": "https://i.postimg.cc/h4TKpw6r/lavazza-Landing-Page1.png"
-    },
-    {
-        "id": 4,
         "title": "Mapping Technologies",
         "description": "Website for mapping company , developped with HTML,CSS,JS,BOOTSTRAP",
         "category": "Website",
@@ -41,7 +31,7 @@
         "image": "https://i.imghippo.com/files/270MQ1714735169.png"
     },
     {
-        "id": 5,
+        "id": 4,
         "title": "Med-Agency",
         "description": "Website for mapping company , developped with HTML,CSS,JS,BOOTSTRAP",
         "category": "Personnel",
