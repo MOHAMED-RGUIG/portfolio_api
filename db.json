@@ -27,8 +27,8 @@
         "category": "LandingPage",
         "Society":"Lavazza TopClass",
         "Date":"2024",
-        "url":"/",
-        "image": "https://mohamed-rguig.github.io/LavazzaLandingPage/"
+        "url":"https://mohamed-rguig.github.io/LavazzaLandingPage/",
+        "image": "https://i.imghippo.com/files/DcZrm1714735007.png"
     },
     {
         "id": 4,
@@ -37,7 +37,7 @@
         "category": "Website",
         "Society":"Udemy",
         "Date":"2023",
-        "url":"https://mohamed-rguig.github.io/Mohamedrguig-portfolio",
+        "url":"https://mohamed-rguig.github.io/MappingTechnologies-rguig/",
         "image": "https://i.imghippo.com/files/270MQ1714735169.png"
     },
     {
