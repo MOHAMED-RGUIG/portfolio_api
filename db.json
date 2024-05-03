@@ -6,6 +6,7 @@
         "category": "Ecommerce-app",
         "Society":"Lavazza TopClass",
         "Date":"2024",
+        "url":"/",
         "image": "https://i.imghippo.com/files/tw3qG1714735092.png"
     },  
     {
@@ -15,6 +16,7 @@
         "category": "Professionel portfolio",
         "Society":"Owner",
         "Date":"2024",
+        "url":"/",
         "image": "https://i.imghippo.com/files/EAqST1714735135.png"
     }
     ,   
@@ -25,7 +27,8 @@
         "category": "LandingPage",
         "Society":"Lavazza TopClass",
         "Date":"2024",
-        "image": "https://i.imghippo.com/files/DcZrm1714735007.png"
+        "url":"/",
+        "image": "https://mohamed-rguig.github.io/LavazzaLandingPage/"
     },
     {
         "id": 4,
@@ -34,6 +37,7 @@
         "category": "Website",
         "Society":"Udemy",
         "Date":"2023",
+        "url":"https://mohamed-rguig.github.io/Mohamedrguig-portfolio",
         "image": "https://i.imghippo.com/files/270MQ1714735169.png"
     },
     {
@@ -43,6 +47,7 @@
         "category": "Personnel",
         "Society":"Owner",
         "Date":"2023",
+        "url":"https://mohamed-rguig.github.io/MedAgency-rguig/",
         "image": "https://i.imghippo.com/files/y3nul1714735197.png"
     }
 ]
